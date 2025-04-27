@@ -12,14 +12,8 @@ I'm Jay, a passionate developer who loves building clean, user-friendly applicat
 ![](https://nirzak-streak-stats.vercel.app/?user=jaaaaayy&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaaaayy&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jaaaaayy&theme=react&no-frame=true&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaaaaayy&limit=5&theme=react&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jaaaaayy&icon=0&color=1)](https://visitcount.itsvg.in)
