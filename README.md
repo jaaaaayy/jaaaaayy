@@ -16,6 +16,3 @@ I'm Jay, a passionate developer who loves building clean, user-friendly applicat
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-![Header](./your-header-image-name.png)
