@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hey there 👋
 I'm Jay, a passionate developer who loves building clean, user-friendly applications. Currently working on sharpening my skills in UI/UX design and creating projects that solve real-world problems.<br><br>🔭 I’m working on: Building the Events feature for our Campus Connect app — a platform that will be used by our university<br>🌱 I’m learning: Next,js, Laravel, Tailwind CSS, UI/UX design<br>💬 Ask me about: Building responsive websites, and backend development<br>📫 How to reach me: jayvallespin51@gmail.com<br>⚡ Fun fact:  I love solving problem-solving activities and challenges
 
 
