@@ -20,6 +20,10 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
 
+<h3>Learning: </h3>
+
+[![My Skills](https://skillicons.dev/icons?i=vue,spring&theme=dark)](https://skillicons.dev)
+
 <h2>Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
