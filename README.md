@@ -24,7 +24,7 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 
 [![My Skills](https://skillicons.dev/icons?i=vue,spring&theme=dark)](https://skillicons.dev)
 
-<h2>Github Stats</h2>
+<h2>Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jaaaaayy&theme=vue-dark&hide_border=true)<br/>
