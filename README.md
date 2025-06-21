@@ -18,7 +18,7 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 
 <h3>Tools: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
 <h3>Learning: </h3>
 
