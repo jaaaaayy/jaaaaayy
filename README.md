@@ -22,7 +22,7 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 
 <h3>Learning: </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,spring&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,postgresql&theme=dark)](https://skillicons.dev)
 
 <h2>Stats</h2>
 
