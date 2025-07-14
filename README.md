@@ -16,4 +16,4 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 ![](https://nirzak-streak-stats.vercel.app/?user=jaaaaayy&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
