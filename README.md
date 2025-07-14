@@ -4,25 +4,11 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 
 <h2>Tech Stack</h2>
 
-<h3>Frontend: </h3>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mysql,java,react,django,php,express,mongodb,next,laravel,git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,next&theme=dark)](https://skillicons.dev)
+<h3>I'm currently learning </h3>
 
-<h3>Backend: </h3>
-
-[![My Skills](https://skillicons.dev/icons?i=express,django,laravel&theme=dark)](https://skillicons.dev)
-
-<h3>Database: </h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skillicons.dev)
-
-<h3>Tools: </h3>
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
-
-<h3>Learning: </h3>
-
-[![My Skills](https://skillicons.dev/icons?i=vue,spring,postgresql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,postgresql,docker&theme=dark)](https://skillicons.dev)
 
 <h2>Stats</h2>
 
