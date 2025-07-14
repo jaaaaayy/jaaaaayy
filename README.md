@@ -4,11 +4,11 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 
 <h2>Tech Stack</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mysql,java,react,python,django,php,express,mongodb,next,laravel,git,github,vscode,idea,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,javascript,mysql,java,react,python,django,php,express,mongodb,next,laravel,git,github,postgresql,vscode,idea,postman&theme=dark)](https://skillicons.dev)
 
 <h3>I'm currently learning </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,spring,postgresql,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,docker,jenkins,aws,nginx&theme=dark)](https://skillicons.dev)
 
 <h2>Stats</h2>
 
