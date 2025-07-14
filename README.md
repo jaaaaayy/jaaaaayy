@@ -8,7 +8,7 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 
 <h3>I'm currently learning </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,spring,docker,jenkins,aws,nginx&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,docker,jenkins,nginx,aws&theme=dark)](https://skillicons.dev)
 
 <h2>Stats</h2>
 
