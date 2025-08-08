@@ -8,10 +8,11 @@ I'm Jay - I'm a passionate full-stack developer who enjoys building applications
 
 <h3>I'm currently learning </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vue,spring,docker,jenkins,nginx,aws&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,docker,kubernetes,jenkins,nginx,aws&theme=dark)](https://skillicons.dev)
 
 <h2>Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=jaaaaayy&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
