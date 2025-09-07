@@ -1,3 +1,14 @@
 # Hi, I’m **Jay**
 
 I’m a full-stack developer passionate about continuous learning and creating **performant, user-friendly applications**.
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=react,next,django,express,laravel,git,github,postman&theme=dark)](https://skillicons.dev)
+
+## Learning
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,docker,jenkins,nginx,aws&theme=dark)](https://skillicons.dev)
+
+## Stats
+![](https://github-readme-stats.vercel.app/api?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jaaaaayy&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
