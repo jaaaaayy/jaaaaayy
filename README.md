@@ -6,7 +6,7 @@ I’m a full-stack developer passionate about continuous learning and creating *
 [![My Skills](https://skillicons.dev/icons?i=react,next,django,nodejs,express,laravel,mysql,postgresql,mongodb,git,github,postman&theme=dark)](https://skillicons.dev)
 
 ## Learning
-[![My Skills](https://skillicons.dev/icons?i=vue,spring,docker,jenkins,nginx,aws,swift,flutter&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vue,spring,docker,kubernetes,jenkins,nginx,aws,kafka,swift,flutter&theme=dark)](https://skillicons.dev)
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
