@@ -1,6 +1,6 @@
-# Hi, I’m **Jay**
+## About Me
 
-I’m a full-stack developer passionate about continuous learning and creating **performant, user-friendly applications**.
+Hi, I'm Jay, a full-stack developer passionate about continuous learning and creating **performant, user-friendly applications**.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,next,django,nodejs,express,laravel,mysql,postgresql,mongodb,git,github,postman&theme=dark)](https://skillicons.dev)
