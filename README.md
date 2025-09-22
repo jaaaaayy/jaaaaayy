@@ -1,6 +1,6 @@
-# :wave: Hi, I'm Jay
+## About Me
 
- A full-stack developer passionate about continuous learning and creating **performant, user-friendly applications**.
+:wave: Hi, I'm Jay, a full-stack developer passionate about continuous learning and building **performant, user-friendly applications**.
 
 ## Tech Stack
 
