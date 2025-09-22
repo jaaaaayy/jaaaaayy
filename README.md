@@ -1,9 +1,22 @@
-## About Me
+# :wave: Hi, I'm Jay
 
-Hi, I'm Jay, a full-stack developer passionate about continuous learning and creating **performant, user-friendly applications**.
+ A full-stack developer passionate about continuous learning and creating **performant, user-friendly applications**.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,next,django,nodejs,express,laravel,mysql,postgresql,mongodb,git,github,postman,docker&theme=dark)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react,next,vue&theme=dark)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=django,nodejs,express,laravel,spring&theme=dark)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark)](https://skillicons.dev)
+
+
+### Tools
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark)](https://skillicons.dev)
+
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
