@@ -15,7 +15,7 @@
 
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker,vscode,idea&theme=dark)](https://skillicons.dev)
 
 
 ## Stats
