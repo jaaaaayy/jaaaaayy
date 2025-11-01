@@ -5,18 +5,7 @@
 ## Tech Stack
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,next,vue&theme=dark)](https://skillicons.dev)
-
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=django,nodejs,express,laravel,spring&theme=dark)](https://skillicons.dev)
-
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb&theme=dark)](https://skillicons.dev)
-
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker&theme=dark)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,tailwind,javascript,ts,java,php,react,next,vue,django,nodejs,express,laravel,spring,mysql,postgresql,mongodb,prisma,vscode,idea,git,github,postman,docker,figma&theme=dark)](https://skillicons.dev)
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=jaaaaayy&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
